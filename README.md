@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Dharmil
-- 👀 I’m interested in Hacking, bug bounty and playing ctf
--my tryhackme me profile link tryhackme.com/p/dharmil4
+Red Team Operator , CTF player , pentester & Bug Hunter
